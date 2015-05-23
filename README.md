@@ -3,7 +3,7 @@ This Shiny App is designed for the course project of [**Developing Data Products
 
 The data set used is based on the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database which can be obtained from [this link](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2FStormData.csv.bz2). It is the same data set that used for another course projrct of [**Reproducible Research**](https://www.coursera.org/course/repdata) provided by Coursera.
 
-Source code for the project is available on [Github](https://github.com/jk100a/Developing_Data_Products_Course_Project).
+The deployed Shiny App can be foound [here](https://jk100a.shinyapps.io/project/).
 
 ## How to use
 1. Adjust `Timeline` by dragging the slide bar.
